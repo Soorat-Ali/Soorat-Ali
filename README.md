@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Soorat-Ali](https://github.com/Soorat-Ali)
 
-- 💬 Ask me about **C++,HTML,JAVA**
+- 💬 Ask me about **C++,HTML,Java**
 
 - 📫 How to reach me **sooratalikhawaja123@gmail.com**
 
