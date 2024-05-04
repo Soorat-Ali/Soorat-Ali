@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soorat-ali" alt="soorat-ali" /></a> </p>
 
-- 🔭 I’m currently working on **Java,Pyton**
+- 🔭 I’m currently working on **Java,Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Soorat-Ali](https://github.com/Soorat-Ali)
 
