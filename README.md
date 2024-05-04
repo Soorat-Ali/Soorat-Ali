@@ -20,7 +20,7 @@
 <a href="https://instagram.com/https://www.instagram.com/soorat_ali_khawaja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/soorat_ali_khawaja/" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/@sooratalikhawaja123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@sooratalikhawaja123" height="30" width="40" /></a>
 <a href="https://youtube.com/@sooratalikhawaja5191?si=R5OAfP0CantP8F7v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@sooratalikhawaja5191?si=R5OAfP0CantP8F7v" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/znxWRZbh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/znxWRZbh" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/1197832317444575336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/znxWRZbh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
